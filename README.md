@@ -1,9 +1,14 @@
-<h2 align="left">call me rkb</h2>
-<p align="left"> 
+<h1 align="center">hey, I am rakib</h1>
+<p align="center"> 
   <a href="https://twitter.com/rkb_001" target="blank">
     <img src="https://img.shields.io/twitter/follow/rkb_001?logo=twitter&style=for-the-badge" alt="rkb_001" />
   </a> 
 </p>
+<div align="center" style="max-width: 600px; margin: 0 auto 40px; padding: 20px; background-color: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; font-size: 16px; color: #333;">
+    crafting seamless digital experiences with MERN, AI, and a passion for innovation.
+  </p>
+</div>
 <h3 align="left">Connect with me:</h3>
 
 <table border="1" cellspacing="10" cellpadding="10">
