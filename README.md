@@ -1,4 +1,4 @@
-<h1 align="center">hey, I am rakib</h1>
+<h1 align="center">Hey, I am rakib</h1>
 <p align="center"> 
   <a href="https://twitter.com/rkb_001" target="blank">
     <img src="https://img.shields.io/twitter/follow/rkb_001?logo=twitter&style=for-the-badge" alt="rkb_001" />
